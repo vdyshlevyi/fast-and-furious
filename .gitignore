@@ -1,0 +1,27 @@
+# IDE
+.idea/
+.vscode
+
+# Data files
+data/
+map-data
+*.sql
+
+# Python files
+.env
+.env_demo
+tests/.testenv
+__pycache__/
+venv/
+
+# Test files
+.coverage
+oxm.egg-info
+coverage.xml
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+
